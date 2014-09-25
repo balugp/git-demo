@@ -1,2 +1,2 @@
 # Demo Git Repository 
-This is  python learning project
+This is  python learning project.
