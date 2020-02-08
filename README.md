@@ -1,6 +1,6 @@
 # Demo Git Repository 
 This is  python learning project.
 
-This for branch  - test01-a, test02
+This for branch  - test02
 
 
